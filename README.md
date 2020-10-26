@@ -1,5 +1,5 @@
 # Goldbach
-亟待
+
 ##### [哥德巴赫的猜想:](https://baike.baidu.com/item/%E5%93%A5%E5%BE%B7%E5%B7%B4%E8%B5%AB%E7%8C%9C%E6%83%B3/72364)
 
 ###### 任一大于5的整数都可写成三个质数之和
